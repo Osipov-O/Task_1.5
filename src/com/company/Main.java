@@ -7,6 +7,6 @@ public class Main {
     int h=t/3600;
     int m=t%3600/60;
     int s=t%60;
-    System.out.println(h+"ч "+m+"м "+s+"с");
+    System.out.println(h+"ч "+m+"мин "+s+"с");
     }
 }
